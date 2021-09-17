@@ -1,1 +1,1 @@
-# odin_recipes
+This in my first project to build from html, css and javascript
